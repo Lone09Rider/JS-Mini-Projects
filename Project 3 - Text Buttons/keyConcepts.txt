@@ -1,0 +1,9 @@
+document.querySelector();
+
+addEventListener();
+
+for loop
+
+this
+
+classList.togle()

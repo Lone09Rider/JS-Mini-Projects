@@ -1,0 +1,13 @@
+document.querySelector();
+
+addEventListener();
+
+for loop
+
+if Statements
+
+toString()
+
+setInterval()
+
+innerHTML

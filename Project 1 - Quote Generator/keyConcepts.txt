@@ -1,0 +1,7 @@
+document.querySelector();
+
+addEventListener();
+
+Math Object()
+
+innerText;
